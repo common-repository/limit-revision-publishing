@@ -1,0 +1,37 @@
+.select2 li.select2-selection__choice {
+	margin: 6px 5px 0 0;
+	padding: 2px 5px 2px;
+}
+
+.select2 li {
+	margin: 4px 5px 2px 0;
+	padding: 2px 5px 2px;
+}
+
+.dashicons-yes,
+.dashicons-unlock {
+	color: #46b450;
+}
+
+.dashicons-no,
+.dashicons-lock {
+	color: #dc3232;
+}
+.dashicons-unlock.partial {
+	color: #ffb900;
+}
+
+.dashicons-plus,
+.dashicons-minus,
+.dashicons-no-alt {
+	color: #ccc;
+}
+
+body.settings_page_limit-revision-publishing h2 {
+	padding-top: 1em;
+	border-top: 1px solid #ddd;
+}
+
+body.settings_page_limit-revision-publishing .select2-container--default .select2-selection--multiple .select2-selection__choice {
+	padding: 3px 5px;
+}
